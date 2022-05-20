@@ -6,4 +6,5 @@ Intro to notebook based computing for the aap course. Includes
 * good notebook computing practices
 * Netflix and notebooks
 * the future of notebook computing?
+* update repo
 
