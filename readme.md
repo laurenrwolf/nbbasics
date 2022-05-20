@@ -8,3 +8,4 @@ Intro to notebook based computing for the aap course. Includes
 * the future of notebook computing?
 * update repo
 
+Jupyter notebooks are terrific
